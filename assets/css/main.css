@@ -3689,10 +3689,10 @@ body.is-menu-visible #menu {
 	background: transparent;
 }
 
-#header.alt h1 {
+/* #header.alt h1 {
 	pointer-events: none;
 	opacity: 0;
-}
+} */
 
 /* Banner */
 
@@ -3958,6 +3958,41 @@ body.is-preload #banner:after {
 	background-repeat: no-repeat;
 	background-size: cover;
 	text-align: center;
+}
+
+#main>.mazaflix-background {
+	background-image: -moz-linear-gradient(top, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../../images/gallery/Pro2.png");
+	background-image: -webkit-linear-gradient(top, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../../images/gallery/Pro2.png");
+	background-image: -ms-linear-gradient(top, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../../images/gallery/Pro2.png");
+	background-image: linear-gradient(top, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../../images/gallery/Pro2.png");
+}
+
+#main>.web-compiler {
+	background-image: -moz-linear-gradient(top, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../../images/gallery/Pro1.png");
+	background-image: -webkit-linear-gradient(top, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../../images/gallery/Pro1.png");
+	background-image: -ms-linear-gradient(top, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../../images/gallery/Pro2.png");
+	background-image: linear-gradient(top, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../../images/gallery/Pro1.png");
+}
+
+#main>.Countries-Info-Application {
+	background-image: -moz-linear-gradient(top, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../../images/gallery/Pro3.png");
+	background-image: -webkit-linear-gradient(top, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../../images/gallery/Pro3.png");
+	background-image: -ms-linear-gradient(top, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../../images/gallery/Pro3.png");
+	background-image: linear-gradient(top, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../../images/gallery/Pro3.png");
+}
+
+#main>.Space-Tourism-Application {
+	background-image: -moz-linear-gradient(top, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../../images/gallery/Pro4.png");
+	background-image: -webkit-linear-gradient(top, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../../images/gallery/Pro4.png");
+	background-image: -ms-linear-gradient(top, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../../images/gallery/Pro4.png");
+	background-image: linear-gradient(top, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../../images/gallery/Pro4.png");
+}
+
+#main>.landin-page {
+	background-image: -moz-linear-gradient(top, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../../images/gallery/Pro5.png");
+	background-image: -webkit-linear-gradient(top, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../../images/gallery/Pro5.png");
+	background-image: -ms-linear-gradient(top, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../../images/gallery/Pro5.png");
+	background-image: linear-gradient(top, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../../images/gallery/Pro5.png");
 }
 
 #main>header h2 {
